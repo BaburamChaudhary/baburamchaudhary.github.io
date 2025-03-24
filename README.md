@@ -1,7 +1,7 @@
 # Baburam Chaudhary
 
 ## Education
-- Artificial Intelligence, Masters, Kathmandu University, Dhulikhel, Kavre (Thesis pending, about to finish by a month).
+- Artificial Intelligence, Masters, Kathmandu University, Dhulikhel, Kavre (Thesis pending).
 - Electrical Engineering, Bachelors, Institute of Engineering, Pashchimanchal Campus, Pokhara
 
 ## Work Experience
